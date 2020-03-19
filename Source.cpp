@@ -1,3 +1,14 @@
+/*
+Radu Enachi 
+
+
++int quotient(int);
++int reminder(int);
+
+*/
+
+
+
 #include <iostream>
 
 
